@@ -1,0 +1,7 @@
+name: WarpSystem
+main: JunDev76\WarpSystem\WarpSystem
+version: 1.0.0
+author: JunDev76
+author-github: https://github.com/JunDev76
+api:
+  - 4.0.0
